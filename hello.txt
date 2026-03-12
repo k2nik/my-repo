@@ -3,6 +3,8 @@
 3
 4
 
-backup
+backup 
 
-충돌 발생^^
+backup clone 
+
+충돌 발생 처리 완료!!^^
