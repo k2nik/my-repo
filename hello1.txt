@@ -3,3 +3,5 @@
 EDIT OK
 
 home/my-repo edit.
+
+hello-git-cli edit.
